@@ -43,7 +43,7 @@ metadata.
 %autosetup -p1
 
 %build
-%meson
+%meson -Das-compare=disabled
 
 %meson_build
 
