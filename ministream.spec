@@ -52,6 +52,7 @@ metadata.
 
 %files -n %{libname}
 %{_libdir}/libministream.so.%{api}*
+%{_libdir}/libministream.so.%{version}
 %{_libdir}/girepository-1.0/Ministream-%{api}.typelib
 
 %files -n %{develname}
