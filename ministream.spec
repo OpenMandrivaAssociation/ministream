@@ -4,7 +4,7 @@
 
 Name:           ministream
 Version:        0.99.1
-Release:        1
+Release:        2
 Summary:        Minimal (subset) AppStream metadata parser
 Group:          System/Libraries
 License:        LGPL-2.1-or-later
